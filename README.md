@@ -16,3 +16,14 @@ git remote set-url origin https://scuzzlebuzzle:<MYTOKEN>@github.com/scuzzlebuzz
 -- push to branch 
 git push -fq origin gh-pages
 
+
+-- ****************************************************************************************************
+
+E em seguida, incluimos uma parte de criação de API para criptomoedas em python (ytb=NxZ_cl8MUEU)
+
+E alguns Helps :::
+
+https://stackoverflow.com/questions/67354102/binance-api-error-importerror-no-module-named-binance-client
+
+
+
